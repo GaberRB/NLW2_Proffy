@@ -6,7 +6,7 @@
 NLW2 - Next Level Week 2 - Proffy <a href="https://rocketseat.com.br/" target="_blank">Rocketseat.</a> <img src="https://img.icons8.com/emoji/24/000000/rocket-emji.png"/>
 
 <h3> Como Usar: </h3>
- <p>Dependências: Express, React, Typescript, Axios <br>
+ <p>Dependências: Express, React, Typescript, Axios, knex, sqllite3 <br>
 <code> npm install</code>
 
 Projeto : <br>
