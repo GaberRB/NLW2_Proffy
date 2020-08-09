@@ -11,7 +11,7 @@ NLW2 - Next Level Week 2 - Proffy <a href="https://rocketseat.com.br/" target="_
 
 Projeto : <br>
 <p> <a href="https://github.com/GaberRB/NLW2_Front_Proffy"> Front-end:</a> Front-end Proffy utilizando React, JS, CSS layout responsivo para Mobile e Web. </p>
-<p> <a href="https://github.com/GaberRB/NLW2_Front_Proffy"> Api:</a> Back-end Api utilizando node.js, express e typescript. </p>
+<p> <a href="https://github.com/GaberRB/NLW2_API"> Api:</a> Back-end Api utilizando node.js, express e typescript. </p>
 
 <h4> Tecnologias utilizadas : </h4> 
 
