@@ -1,6 +1,6 @@
 # NLW2_Proffy
 
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/28874479/89736144-abe51a00-da3d-11ea-9645-7d7934d4c95c.jpg"/>
 
 
 NLW2 - Next Level Week 2 - Proffy <a href="https://rocketseat.com.br/" target="_blank">Rocketseat.</a> <img src="https://img.icons8.com/emoji/24/000000/rocket-emji.png"/>
